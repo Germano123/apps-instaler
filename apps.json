@@ -1,0 +1,22 @@
+{
+    "apps": [
+        { "name": "Git.Git", "version": "2.42.0.2" },
+        { "name": "GitHub.GitLFS", "version": "3.4.0" },
+        { "name": "GitHub.cli", "version": "2.39.1" },
+        { "name": "Obsidian.Obsidian", "version": "1.4.16" },
+        { "name": "Microsoft.VisualStudioCode", "version": "1.84.2" },
+        { "name": "NickeManarin.ScreenToGif", "version": "2.39.0.0" },
+        { "name": "Inkscape.Inkscape", "version": "1.3" },
+        { "name": "GIMP.GIMP", "version": "2.10.36" },
+        { "name": "BleuBleu.FamiStudio", "version": "4.0.6" },
+        { "name": "LMMS.LMMS", "version": "1.2.2" },
+        { "name": "Meltytech.Shotcut", "version": "23.09.29" },
+        { "name": "BlenderFoundation.Blender.LTS", "version": "3.3.12" },
+        { "name": "GodotEngine.GodotEngine", "version": "4.1.3" },
+        { "name": "Unity.UnityHub", "version": "3.6.1" },
+        { "name": "7zip.7zip", "version": "23.01" },
+        { "name": "OpenJS.NodeJS.LTS", "version": "20.9.0" },
+        { "name": "Docker.DockerDesktop" },
+        { "name": "pureref.exe", "uri": "https://www.pureref.com/files/build.php?build=WIN64.exe&version=1.11.1&downloadKey=ppj1vJHxy3Mo7XpCtOrwEA==" }
+    ]
+}
