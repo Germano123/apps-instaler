@@ -25,7 +25,7 @@ $programs = @(
 	# @{name = "Krita"; id = "KDE.Krita"; version = "5.2.2" },
 	# @{name = "StreamlabsOBS"; id = "Streamlabs.Streamlabs"; version = "0.23.2" },
 	# @{name = "NVIDIA GeForce Experience"; id = "Nvidia.GeForceExperience"; version = "3.27.0.120" }
-	# @{name = "EpicGames"; id = "EpicGames.EpicGamesLauncher"; version = "1.3.93.0" }
+	# @{name = "Epic Games Launcher"; id = "EpicGames.EpicGamesLauncher"; version = "1.3.93.0" }
 	# @{name = "Steam"; id = "Valve.Steam"; version = "2.10.91.91" }
 )
 
