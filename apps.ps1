@@ -32,6 +32,7 @@ $programs = @(
 $binaries = @(
 	# @{ "name" = "pureref.exe"; uri = "https://www.pureref.com/files/build.php?build=WIN64.exe&version=1.11.1&downloadKey=ppj1vJHxy3Mo7XpCtOrwEA==" },
 	# @{ "name" = "quixelmixer.exe"; uri = "https://d2shgxa8i058x8.cloudfront.net/mixer/win/Quixel_Mixer_2022.1.1_Beta.exe" }
+	# @{ "name" = "chitubox.exe"; uri = "https://download.chitubox.com/17839/v2.0.0/CHITUBOX64Install_V2.0.0.exe?auth_key=1712774956-r65sqcneqv6fmnbm0d9oejvr5e2dsucg-0-d19a5fe996640e7e98a025cfec3957f1" }
 )
 
 Foreach ($program in $programs)
